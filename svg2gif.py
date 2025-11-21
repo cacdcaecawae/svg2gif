@@ -29,7 +29,7 @@ elif len(sys.argv) == 1:
 	FILE_NAME = "example/test.svg"
 else:
 	raise Exception("Usage: python svg2gif.py <SVG_file>")
-SCREENSHOTS_PER_SECOND = 11 # This arbitrary number worked but is not perfect
+SCREENSHOTS_PER_SECOND = 20 # This arbitrary number worked but is not perfect
 
 ########################################################
 # Helper functions

@@ -1,0 +1,33 @@
+# 临时文件夹
+_screenshots/
+
+# 临时 SVG 文件
+TMP_*.svg
+
+# Chrome/Selenium 日志
+chromedriver.log
+geckodriver.log
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 生成的 GIF（可选，如果不想提交生成的文件）
+# *.gif
